@@ -15,7 +15,7 @@ Building engineering systems that compound: products, platforms, and the autonom
 
 ---
 
-#### slice · Engineering Manager · Sep 2024 – present
+#### slice · Engineering Leader · Sep 2024 – present
 
 Lead 3 squads (15+ engineers across backend, mobile, frontend) on slice's merchant payments platform.
 
@@ -30,7 +30,7 @@ Lead 3 squads (15+ engineers across backend, mobile, frontend) on slice's mercha
 
 ---
 
-#### jumpingMinds AI · Co-Founder & Engineering Manager · Jun 2021 – Aug 2024
+#### jumpingMinds AI · Co-Founder & CTO · Jun 2021 – Aug 2024
 
 Founded India's largest mental-health community from zero. Owned product strategy, engineering, and GTM.
 
